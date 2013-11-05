@@ -13,3 +13,5 @@ static void Main(string[] args)
 
 }
 ```
+
+W katalogach poszczególnych wykładów znajdziecie też dodatkowe materiały (np. schematy blokowe programów).
